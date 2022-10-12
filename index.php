@@ -7,6 +7,9 @@
     <title>Chat Plugin</title>
 </head>
 <body>
+
+    <h3 style="text-align:center;">Chat Plugin Sample Website</h3>
+
     <!-- Messenger Chat plugin Code -->
     <div id="fb-root"></div>
 
